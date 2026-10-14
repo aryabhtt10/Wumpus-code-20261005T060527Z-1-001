@@ -1,0 +1,497 @@
+[
+  {
+    "q": "Who created the original 'Hunt the Wumpus' text game in 1973?",
+    "opts": [
+      "Gregory Yob",
+      "Will Crowther",
+      "Don Daglow",
+      "Ken Thompson"
+    ],
+    "ans": 0,
+    "hint": "Starts with 'G'"
+  },
+  {
+    "q": "In the classic 'Hunt the Wumpus' game, what mathematical shape is the cave network modeled after?",
+    "opts": [
+      "Octahedron",
+      "Icosahedron",
+      "Dodecahedron",
+      "Tetrahedron"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'D'"
+  },
+  {
+    "q": "In the classic Wumpus game, how many custom arrows does the player start with?",
+    "opts": [
+      "3",
+      "5",
+      "10",
+      "1"
+    ],
+    "ans": 1,
+    "hint": "Starts with '5'"
+  },
+  {
+    "q": "What animal helper in Wumpus games grabs you and flies you to a random cave?",
+    "opts": [
+      "Super Bat",
+      "Vampire Bat",
+      "Giant Owl",
+      "Cave Eagle"
+    ],
+    "ans": 0,
+    "hint": "Starts with 'S'"
+  },
+  {
+    "q": "In Hunt the Wumpus, what dangerous hazards are pitch black and cause instant portal malfunction?",
+    "opts": [
+      "Bottomless Pits",
+      "Acid Pools",
+      "Lava Streams",
+      "Quicksand"
+    ],
+    "ans": 0,
+    "hint": "Starts with 'B'"
+  },
+  {
+    "q": "What does CPU stand for?",
+    "opts": [
+      "Computer Processing Unit",
+      "Central Processing Unit",
+      "Central Peripheral Unit",
+      "Core Power Unit"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'C'"
+  },
+  {
+    "q": "What does RAM stand for?",
+    "opts": [
+      "Read Access Memory",
+      "Rapid Action Module",
+      "Random Access Memory",
+      "Realtime Active Memory"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'R'"
+  },
+  {
+    "q": "In programming, which data type holds only a 'True' or 'False' value?",
+    "opts": [
+      "Integer",
+      "String",
+      "Float",
+      "Boolean"
+    ],
+    "ans": 3,
+    "hint": "Starts with 'B'"
+  },
+  {
+    "q": "What is the time complexity of a standard Binary Search algorithm?",
+    "opts": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'O'"
+  },
+  {
+    "q": "Which programming language was developed by James Gosling at Sun Microsystems and released in 1995?",
+    "opts": [
+      "Python",
+      "C++",
+      "Java",
+      "Ruby"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'J'"
+  },
+  {
+    "q": "What does HTTP stand for in web browser URLs?",
+    "opts": [
+      "Hypertext Transfer Protocol",
+      "High Tech Terminal Page",
+      "Hyperlink Text Transmission Path",
+      "Home Tab Transfer Process"
+    ],
+    "ans": 0,
+    "hint": "Starts with 'H'"
+  },
+  {
+    "q": "What is the primary language used for styling modern web application pages?",
+    "opts": [
+      "HTML",
+      "SQL",
+      "CSS",
+      "TypeScript"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'C'"
+  },
+  {
+    "q": "Which data structure operates on a 'Last In, First Out' (LIFO) access pattern?",
+    "opts": [
+      "Queue",
+      "Stack",
+      "Linked List",
+      "Binary Tree"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'S'"
+  },
+  {
+    "q": "Who is widely considered the world's first computer programmer for her work on Babbage's Analytical Engine?",
+    "opts": [
+      "Ada Lovelace",
+      "Grace Hopper",
+      "Katherine Johnson",
+      "Margaret Hamilton"
+    ],
+    "ans": 0,
+    "hint": "Starts with 'A'"
+  },
+  {
+    "q": "What is the binary representation of the decimal number 10?",
+    "opts": [
+      "1001",
+      "1010",
+      "1100",
+      "0111"
+    ],
+    "ans": 1,
+    "hint": "Starts with '1'"
+  },
+  {
+    "q": "What is the square root of 144?",
+    "opts": [
+      "10",
+      "11",
+      "12",
+      "14"
+    ],
+    "ans": 2,
+    "hint": "Starts with '1'"
+  },
+  {
+    "q": "What is the closest planet to our Sun in the solar system?",
+    "opts": [
+      "Venus",
+      "Mars",
+      "Mercury",
+      "Earth"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'M'"
+  },
+  {
+    "q": "What is the chemical symbol for the precious metal Gold?",
+    "opts": [
+      "Ag",
+      "Au",
+      "Gd",
+      "Fe"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'A'"
+  },
+  {
+    "q": "Approximately how long does it take for light from the Sun to reach the Earth?",
+    "opts": [
+      "8 seconds",
+      "8 minutes",
+      "8 hours",
+      "8 days"
+    ],
+    "ans": 1,
+    "hint": "Starts with '8'"
+  },
+  {
+    "q": "Which scientist developed the theory of General Relativity?",
+    "opts": [
+      "Isaac Newton",
+      "Albert Einstein",
+      "Nikola Tesla",
+      "Marie Curie"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'A'"
+  },
+  {
+    "q": "What is the only mammal capable of true, sustained flight?",
+    "opts": [
+      "Flying Squirrel",
+      "Bat",
+      "Sugar Glider",
+      "Flying Lemur"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'B'"
+  },
+  {
+    "q": "What gas do plants absorb from the atmosphere during photosynthesis?",
+    "opts": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Hydrogen"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'C'"
+  },
+  {
+    "q": "How many bones are in a typical adult human skeleton?",
+    "opts": [
+      "156",
+      "206",
+      "256",
+      "306"
+    ],
+    "ans": 1,
+    "hint": "Starts with '2'"
+  },
+  {
+    "q": "What is the boiling point of pure water at sea level in degrees Celsius?",
+    "opts": [
+      "50 C",
+      "80 C",
+      "100 C",
+      "120 C"
+    ],
+    "ans": 2,
+    "hint": "Starts with '1'"
+  },
+  {
+    "q": "What is the most abundant gas found in Earth's atmosphere?",
+    "opts": [
+      "Oxygen",
+      "Nitrogen",
+      "Carbon Dioxide",
+      "Argon"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'N'"
+  },
+  {
+    "q": "Which sandbox video game is the best-selling video game of all time?",
+    "opts": [
+      "Minecraft",
+      "Tetris",
+      "Grand Theft Auto V",
+      "Wii Sports"
+    ],
+    "ans": 0,
+    "hint": "Starts with 'M'"
+  },
+  {
+    "q": "Who is the main green-clad protagonist of Nintendo's 'The Legend of Zelda' series?",
+    "opts": [
+      "Zelda",
+      "Link",
+      "Ganon",
+      "Luigi"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'L'"
+  },
+  {
+    "q": "In the classic arcade game 'Pac-Man', what is the name of the red ghost?",
+    "opts": [
+      "Blinky",
+      "Pinky",
+      "Inky",
+      "Clyde"
+    ],
+    "ans": 0,
+    "hint": "Starts with 'B'"
+  },
+  {
+    "q": "Which game developer created the popular franchise 'Dark Souls' and 'Elden Ring'?",
+    "opts": [
+      "Bethesda",
+      "FromSoftware",
+      "CD Projekt Red",
+      "BioWare"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'F'"
+  },
+  {
+    "q": "What was the name of the first commercially successful video game console, released in 1977?",
+    "opts": [
+      "Nintendo Entertainment System",
+      "Atari 2600",
+      "Sega Genesis",
+      "Commodore 64"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'A'"
+  },
+  {
+    "q": "Which ocean is the largest and deepest ocean on Earth?",
+    "opts": [
+      "Atlantic Ocean",
+      "Indian Ocean",
+      "Arctic Ocean",
+      "Pacific Ocean"
+    ],
+    "ans": 3,
+    "hint": "Starts with 'P'"
+  },
+  {
+    "q": "What is the capital city of Japan?",
+    "opts": [
+      "Kyoto",
+      "Osaka",
+      "Tokyo",
+      "Hiroshima"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'T'"
+  },
+  {
+    "q": "In which year did the famous passenger ship Titanic strike an iceberg and sink?",
+    "opts": [
+      "1905",
+      "1912",
+      "1923",
+      "1939"
+    ],
+    "ans": 1,
+    "hint": "Starts with '1'"
+  },
+  {
+    "q": "Who painted the famous Renaissance masterpiece 'Mona Lisa'?",
+    "opts": [
+      "Michelangelo",
+      "Raphael",
+      "Vincent van Gogh",
+      "Leonardo da Vinci"
+    ],
+    "ans": 3,
+    "hint": "Starts with 'L'"
+  },
+  {
+    "q": "Which country is the natural habitat and home to the Kangaroo?",
+    "opts": [
+      "New Zealand",
+      "South Africa",
+      "Australia",
+      "Brazil"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'A'"
+  },
+  {
+    "q": "What is the longest river in the world?",
+    "opts": [
+      "Amazon River",
+      "Nile River",
+      "Yangtze River",
+      "Mississippi River"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'N'"
+  },
+  {
+    "q": "Which ancient civilization constructed the Great Pyramids of Giza?",
+    "opts": [
+      "Romans",
+      "Aztecs",
+      "Egyptians",
+      "Greeks"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'E'"
+  },
+  {
+    "q": "What is the capital city of France?",
+    "opts": [
+      "London",
+      "Berlin",
+      "Paris",
+      "Rome"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'P'"
+  },
+  {
+    "q": "Who was the first President of the United States?",
+    "opts": [
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams",
+      "George Washington"
+    ],
+    "ans": 3,
+    "hint": "Starts with 'G'"
+  },
+  {
+    "q": "Which country gifted the famous Statue of Liberty to the United States?",
+    "opts": [
+      "France",
+      "Great Britain",
+      "Spain",
+      "Germany"
+    ],
+    "ans": 0,
+    "hint": "Starts with 'F'"
+  },
+  {
+    "q": "What is the smallest country in the world by land area?",
+    "opts": [
+      "Monaco",
+      "Liechtenstein",
+      "Vatican City",
+      "San Marino"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'V'"
+  },
+  {
+    "q": "Which mountain is the highest mountain peak above sea level in the world?",
+    "opts": [
+      "K2",
+      "Mount Kilimanjaro",
+      "Mount Everest",
+      "Mount Fuji"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'M'"
+  },
+  {
+    "q": "What was the name of the ancient trade route that connected China to the Mediterranean?",
+    "opts": [
+      "The Spice Road",
+      "The Silk Road",
+      "The Amber Path",
+      "The Incense Route"
+    ],
+    "ans": 1,
+    "hint": "Starts with 'T'"
+  },
+  {
+    "q": "Which European country was ruled by the famous leader Napoleon Bonaparte?",
+    "opts": [
+      "France",
+      "Spain",
+      "Italy",
+      "Austria"
+    ],
+    "ans": 0,
+    "hint": "Starts with 'F'"
+  },
+  {
+    "q": "What is the capital city of Australia?",
+    "opts": [
+      "Sydney",
+      "Melbourne",
+      "Canberra",
+      "Brisbane"
+    ],
+    "ans": 2,
+    "hint": "Starts with 'C'"
+  }
+]

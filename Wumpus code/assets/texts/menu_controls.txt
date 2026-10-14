@@ -1,0 +1,6 @@
+CONTROLS:
+WASD - Move
+SHIFT + WASD - Shoot Normal
+CTRL + WASD - Shoot Explosive
+Q + WASD - Shoot TNT
+E - Open Shop

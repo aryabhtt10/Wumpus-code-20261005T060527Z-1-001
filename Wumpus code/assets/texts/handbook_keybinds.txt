@@ -1,0 +1,21 @@
+Master the keys to survive the cave hazards:
+
+• W, A, S, D / Arrow Keys  : Move Player around the room
+
+• SHIFT + [W/A/S/D]         : Shoot Normal Arrow (deals 2 damage to Wumpus)
+
+• CTRL + [W/A/S/D]          : Shoot Explosive Arrow (requires Explosive Arrow ammo)
+
+• Q + [W/A/S/D]             : Throw TNT (large explosion, requires TNT ammo)
+
+• E                         : Open Weapons Dealer Shop in safe rooms
+
+• I                         : Open / Close this Adventurer's Handbook
+
+• 1, 2, 3, 4                : Select Trivia Answers in Trivia/Pit prompts
+
+• Click Minimap Cell        : Teleport to selected cave (when Teleport active)
+
+• ESC                       : Exit menus or close prompts
+
+• R                         : Restart game (on GameOver / Victory screens)

@@ -1,0 +1,23 @@
+Welcome to Hunt the Wumpus! Your mission is to locate and defeat the beast.
+
+• Sleeping Beast: Wumpus starts asleep. Entering its room prompts Retreat/Stay.
+  - Retreat: Costs 5 Gold & Trivia. Safely sends you back to your previous room!
+  - Stay/Fail: Wumpus wakes up. You are locked in, and the Wumpus hunts you down!
+
+• Dynamic Pits: Pitch black pits are scattered throughout the cave system.
+  - Pit Chance: 5% on Easy | 8% on Medium | 11% on Hard.
+  - Falling in: Malfunctions portal, consumes 5 Gold & triggers a Trivia Escape.
+  - Safe Start: The first 3 rooms you visit are guaranteed to be 100% pit-free!
+
+• Cave Collapse: 40s after Wumpus wakes up, outer rooms collapse sequentially.
+  - Yellow Arrows: Show collapsing rooms on the minimap. Get out in time!
+
+• Weapons Dealer: Open the shop [E] in safe rooms to buy weapons and upgrades.
+  - Secrets Upgrade: Reveals proximity arrows showing if Wumpus/Bat/Pit is 1 room away.
+
+• Wumpus Secrets: Purchasing a Wumpus hint reveals its grid proximity.
+  - Map Arrows: A purple arrow appears on the top/left margins of your minimap.
+  - Interpretation: The Wumpus lies within 3 columns (for top arrows) or 3 rows
+    (for left arrows) of the indicated line. Multiple hints narrow down its exact room!
+  - Redundancy Block: If you already know the Wumpus's exact room (e.g. from retreat),
+    the shop will block you from buying secrets so you do not waste gold!

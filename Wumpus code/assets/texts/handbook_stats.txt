@@ -1,0 +1,18 @@
+Dungeon Entity Stats, Weapon Specs, & Game Mechanics:
+
+• Wumpus: 30 HP (Easy) | 50 HP (Medium) | 75 HP (Hard). Deals 8 touch damage.
+  - Spawns gold drops every 6s, and spawns new swarms of enemies every 10s.
+
+• Super Bats: 2 majestic golden bats reside in the cave. Smoothly chase you.
+  - Has 5 HP. Defeating it awards 15 pts and permanently clears the hazard.
+  - If it touches you, it picks you up and teleports you to a random safe room.
+
+• Dungeon Spiders: Small spiders (1 HP, 1 touch dmg) | Big spiders (2 HP, 2 touch dmg).
+
+• Arsenal & Damage Specs:
+  - Normal Arrow: Deals 2 DMG to Wumpus, 1 DMG to Spiders/Bats. Direct shot.
+  - Explosive Arrow: 60px radius. Kills 4 big / 6 small spiders. Deals 3 DMG to Wumpus.
+  - TNT: 150px radius. Kills up to 15 spiders in room. Deals 8 DMG to Wumpus.
+
+• Scoring Formula: Score = 100 - Turns + Gold + 5 * Arrows + Wumpus Killed Bonus (50 pts)
+  - Speed Bonus: Complete under 2/5/10 min to get a multiplier on your final score!

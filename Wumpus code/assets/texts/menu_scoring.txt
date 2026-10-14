@@ -1,0 +1,5 @@
+SCORING:
+Number of Turns = +1
+Gold Coins = +1
+Number of Arrows = +5
+Kill Wumpus = +50

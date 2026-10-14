@@ -1,0 +1,7 @@
+• Turns Taken (N)       :  {turns}  (-{turns} pts)
+• Gold Coins Left (G)   :  {gold}  (+{gold} pts)
+• Arrows Left (A)       :  {arrows}  (+{arrows_value} pts)
+• Wumpus Killed (W)     :  {wumpus_bonus} pts
+
+Equation: 100 - N + G + (5 * A) + W
+FINAL SCORE             :  {final_score} PTS
